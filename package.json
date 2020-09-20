@@ -1,0 +1,24 @@
+{
+  "name": "website.psd",
+  "version": "1.0.0",
+  "description": "turning the pdf page into a real website",
+  "main": "server.js",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RulaAbuHasna/webSite.psd.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RulaAbuHasna/webSite.psd/issues"
+  },
+  "homepage": "https://github.com/RulaAbuHasna/webSite.psd#readme"
+}
